@@ -1,0 +1,30 @@
+# Sensitive files
+service_key.json
+
+# Uploaded files
+uploads/
+
+# Database files
+*.db
+
+# Virtual environment
+venv/
+
+# Compiled files
+__pycache__/
+*.pyc
+
+# IDE settings
+.vscode/
+.idea/
+
+# System files
+.DS_Store
+
+# Logs and temporary files
+*.log
+*.temp
+
+
+# Ignore database file
+quizify.db
